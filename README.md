@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React Quiz App
+
+A simple quiz app built with React.
+
+## Features
+- Multiple categories
+- Timer
+- Score saving
+
+## Installation
+```bash
+npm install
+npm start
+>>>>>>> 64aafc31585695a0bed7faab2994c92a17008e38
